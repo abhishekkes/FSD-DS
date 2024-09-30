@@ -1,0 +1,23 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+table {
+  width: 100%;
+  border-radius: 12px;
+  border-style: dashed;
+  border-color: blue;
+  border-width: 5px;
+}
+#heading {
+  text-align: center;
+  font-size: 60px;
+  background-color: chartreuse;
+  color: brown;
+}
+#row1 {
+  background-color: blueviolet;
+}
+#row2 {
+  background-color: chocolate;
+}
